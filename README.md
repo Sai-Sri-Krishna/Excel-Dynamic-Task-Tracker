@@ -29,7 +29,7 @@ This project focuses on tracking tasks, monitoring progress, and analyzing workl
 
 ## 🖼️ Dashboard Preview
 
-![Task Management Tracker Dashboard](Preview/dashboard.png)
+![Task Management Tracker Dashboard](Preview/Dashboard.png)
 
 ## 📂 Project Structure
 
